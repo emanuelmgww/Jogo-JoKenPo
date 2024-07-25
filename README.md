@@ -13,6 +13,7 @@ Aleatoriedade: O computador faz uma escolha aleatória usando a função de gera
 ## Tecnologias
 
 Linguagem: C#
+
 Plataforma: .NET
 
 ## Como Executar
