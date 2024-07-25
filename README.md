@@ -1,8 +1,8 @@
 # JoKenPo - Jogo de Pedra, Papel e Tesoura
 
-#JoKenPo# é um jogo clássico de Pedra, Papel e Tesoura onde você joga contra o computador. Desenvolvido com C# e a plataforma .NET, este projeto é uma ótima oportunidade para explorar a lógica de jogos e a interação básica com o usuário. O jogo permite que você escolha entre pedra, papel ou tesoura e compete contra a escolha aleatória do computador.
+**JoKenPo** é um jogo clássico de Pedra, Papel e Tesoura onde você joga contra o computador.Este projeto é uma ótima oportunidade para explorar a lógica de jogos e a interação básica com o usuário. O jogo permite que você escolha entre pedra, papel ou tesoura e compete contra a escolha aleatória do computador.
 
-Recursos
+## Recursos
 
 Interface Simples: Desenvolvido com uma interface de linha de comando para fácil entendimento e interação.
 
@@ -10,13 +10,13 @@ Lógica de Jogo: Implementação da lógica padrão de Pedra, Papel e Tesoura co
 
 Aleatoriedade: O computador faz uma escolha aleatória usando a função de geração de números aleatórios.
 
-Tecnologias
+## Tecnologias
 
 Linguagem: C#
 Plataforma: .NET
 
-Como Executar
+## Como Executar
 
-Clone o repositório: git clone https://github.com/emanuelmgww/JoKenPo.git
-Abra o projeto no Visual Studio ou em outro IDE compatível com C#.
-Compile e execute o projeto para iniciar o jogo.
+1. Clone o repositório
+2. Abra o projeto no Visual Studio ou em outro IDE compatível com C#.
+3. Compile e execute o projeto para iniciar o jogo.
